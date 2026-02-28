@@ -1,0 +1,702 @@
+[
+    {
+        "id": "000000000000",
+        "image": "2362090_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate cat sitting on a window sill in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "window sill is here, so cat should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000001",
+        "image": "2322305_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate sheep laying in field in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "field is here, so sheep should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000002",
+        "image": "2318535_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate sheep laying in grass in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "grass is here, so sheep should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000003",
+        "image": "2367451_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate bear sitting on a sign in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "sign is here, so bear should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000004",
+        "image": "2389444_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put girl sitting on a saddle in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "saddle is here, so girl should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000005",
+        "image": "2390121_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of goose standing near bench in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "bench is here, so goose should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000006",
+        "image": "2376524_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate bowl sitting on a oven in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "oven is here, so bowl should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000007",
+        "image": "2368216_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of number painted wing in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "wing is here, so number should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000008",
+        "image": "2401147_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of sheep sitting on a grass in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "grass is here, so sheep should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000009",
+        "image": "2321798_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put horse laying in grass in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "grass is here, so horse should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000010",
+        "image": "2367435_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of man pointing finger in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "finger is here, so man should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000011",
+        "image": "2351969_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate dog laying in bed in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "bed is here, so dog should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000012",
+        "image": "2324066_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put boy hitting ball in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "ball is here, so boy should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000013",
+        "image": "2369099_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put couple walking towards sand in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "sand is here, so couple should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000014",
+        "image": "2319824_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate animals laying in grass field in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "grass field is here, so animals should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000015",
+        "image": "2316075_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put dog on back of vehicle in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "vehicle is here, so dog should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000016",
+        "image": "2399897_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate flower top of vase in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "vase is here, so flower should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000017",
+        "image": "2317322_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put carrot laying in plate in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "plate is here, so carrot should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000018",
+        "image": "2317045_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of man balancing on skateboard in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "skateboard is here, so man should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000019",
+        "image": "2322041_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate man sitting on a bike in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "bike is here, so man should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000020",
+        "image": "2319694_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate children sitting on a table in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "table is here, so children should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000021",
+        "image": "2408209_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put man grabbing pizza in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "pizza is here, so man should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000022",
+        "image": "2390233_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate girl playing with frisbee in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "frisbee is here, so girl should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000023",
+        "image": "1159390_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate sign mounted on pole in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "pole is here, so sign should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000024",
+        "image": "2414135_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of zebra grazing on enclosure in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "enclosure is here, so zebra should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000025",
+        "image": "2320582_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of kite flying in sky in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "sky is here, so kite should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000026",
+        "image": "2362253_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate airplane flying in sky in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "sky is here, so airplane should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000027",
+        "image": "1592263_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate bag top of suitcase in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "suitcase is here, so bag should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000028",
+        "image": "2366679_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate cow on other side of road in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "road is here, so cow should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000029",
+        "image": "2340505_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate cat are inside bathtub in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "bathtub is here, so cat should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000030",
+        "image": "2364416_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate objects attached vase in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "vase is here, so objects should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000031",
+        "image": "2317883_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of object are inside box in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "box is here, so object should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000032",
+        "image": "2366126_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate clock on other side of building in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "building is here, so clock should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000033",
+        "image": "2324546_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of flag hanging on a fence in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "fence is here, so flag should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000034",
+        "image": "1143_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate tin top of bar in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "bar is here, so tin should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000035",
+        "image": "1593234_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put man surfing in surfboard in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "surfboard is here, so man should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000036",
+        "image": "2353704_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put bird sitting on a branch in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "branch is here, so bird should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000037",
+        "image": "2359866_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put bird sitting on a surface in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "surface is here, so bird should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000038",
+        "image": "2355743_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put woman flying in kite in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "kite is here, so woman should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000039",
+        "image": "2384870_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate kite flying in sky in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "sky is here, so kite should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000040",
+        "image": "2318176_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put boat leaving stream in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "stream is here, so boat should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000041",
+        "image": "2379141_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate chairs under a umbrella in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "umbrella is here, so chairs should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000042",
+        "image": "2376614_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of cow laying in street in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "street is here, so cow should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000043",
+        "image": "2329007_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment a space for the generation of plane flying in air in this image.\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "air is here, so plane should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000044",
+        "image": "2401491_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate bench between trees in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "trees is here, so bench should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000045",
+        "image": "2324534_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate man under a umbrella in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "umbrella is here, so man should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000046",
+        "image": "2365527_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate sign hanging on a roof in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "roof is here, so sign should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000047",
+        "image": "2409026_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere can I put bench beneath bark in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "bark is here, so bench should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000048",
+        "image": "2357104_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the best place to generate wheel on other side of boat in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "boat is here, so wheel should be placed here."
+            }
+        ]
+    },
+    {
+        "id": "000000000049",
+        "image": "1591905_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment a place to generate kite flying in sky in this image?\nPlease respond with a bounding box in the form of [xmin, ymin, xmax, ymax]."
+            },
+            {
+                "from": "gpt",
+                "value": "sky is here, so kite should be placed here."
+            }
+        ]
+    }
+]

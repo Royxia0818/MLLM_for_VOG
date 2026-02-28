@@ -1,0 +1,3810 @@
+[
+    {
+        "id": "000000000000",
+        "image": "2315359_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is lamp top of table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000001",
+        "image": "2402483_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate sign top of pole in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000002",
+        "image": "2321320_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out bird sitting on a chair in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000003",
+        "image": "2404410_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out giraffe beside building in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000004",
+        "image": "2384885_16.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out dog driving down car in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000005",
+        "image": "2412623_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out boat laying in beach in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000006",
+        "image": "2365870_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is rod hanging on a wall in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000007",
+        "image": "2397133_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is cliff beside water in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000008",
+        "image": "2325733_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cat are inside suitcase in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000009",
+        "image": "2388793_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cats sitting on a floor in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000010",
+        "image": "2416022_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate car stopped at light in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000011",
+        "image": "2371724_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out engine under a wing in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000012",
+        "image": "1592253_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate bear against railing in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000013",
+        "image": "2398750_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate man sitting on a stairs in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000014",
+        "image": "713845_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate man surfing in water in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000015",
+        "image": "2351697_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out pipe containing water in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000016",
+        "image": "2351060_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is bottle containing beer in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000017",
+        "image": "2320209_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out scooter facing building in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000018",
+        "image": "2349991_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate sign mounted on bus in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000019",
+        "image": "2382819_11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is broccoli sitting on a plate in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000020",
+        "image": "2339175_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is seat on back of elephant in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000021",
+        "image": "2386220_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate plant beside cabinet in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000022",
+        "image": "4106_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate statue sitting on a table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000023",
+        "image": "1592222_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is bike against wall in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000024",
+        "image": "3907_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out lines attached floor in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000025",
+        "image": "2381615_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out bat leaning on bat in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000026",
+        "image": "2390366_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out pillow top of bed in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000027",
+        "image": "2408614_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out child playing with field in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000028",
+        "image": "713440_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate wine bottle sitting on a table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000029",
+        "image": "2349830_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is tower atop building in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000030",
+        "image": "2385394_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out trim painted wall in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000031",
+        "image": "2365132_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out zebra standing near giraffe in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000032",
+        "image": "2388867_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out truck beyond grass in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000033",
+        "image": "2326531_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out seat are inside bus in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000034",
+        "image": "2357113_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate man sitting on a bus in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000035",
+        "image": "2380485_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate water bottle on other side of cat in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000036",
+        "image": "2336266_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out shape across back in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000037",
+        "image": "2335448_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out helmet attached handlebar in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000038",
+        "image": "2406451_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out man sitting on a beach in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000039",
+        "image": "2393805_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out purse sitting on a table in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000040",
+        "image": "2324083_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out dog walking towards woman in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000041",
+        "image": "2326762_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out hand touching table in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000042",
+        "image": "2407956_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is cup top of table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000043",
+        "image": "498356_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out face displayed on numerals in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000044",
+        "image": "2326829_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out star attached cake in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000045",
+        "image": "2363807_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate candle top of tv in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000046",
+        "image": "2321346_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate giraffe sitting on a down in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000047",
+        "image": "2355689_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out kite surfing in ocean in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000048",
+        "image": "2368793_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate neck belonging to giraffe in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000049",
+        "image": "2339490_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate woman working on computer in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000050",
+        "image": "771_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is car top of road in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000051",
+        "image": "2401813_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out bag top of chair in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000052",
+        "image": "2393887_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is woman under a sky in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000053",
+        "image": "2400279_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out sheep walking towards grass in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000054",
+        "image": "713414_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out book top of papers in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000055",
+        "image": "2381036_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out dogs under a bench in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000056",
+        "image": "2342945_22.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is speaker top of desk in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000057",
+        "image": "2379061_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out boy swinging bat in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000058",
+        "image": "2415042_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out man grabbing bag in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000059",
+        "image": "2346709_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out sign mounted on pole in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000060",
+        "image": "2324480_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate antenna top of boat in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000061",
+        "image": "2402414_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out microwave sitting on a grass in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000062",
+        "image": "2354647_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate streetlight beside tree in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000063",
+        "image": "2400908_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cat sitting on a chair in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000064",
+        "image": "2398915_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out stop sign attached post in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000065",
+        "image": "2331508_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out camera mounted on pole in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000066",
+        "image": "2341552_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate sign on other side of net in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000067",
+        "image": "2317782_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out pipe leaning on door in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000068",
+        "image": "2400513_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out giraffe are inside fence in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000069",
+        "image": "2363013_11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is cat sitting on a bed in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000070",
+        "image": "2342680_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out cat sleeping on motorcycle in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000071",
+        "image": "2350726_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out urinal on other side of wall in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000072",
+        "image": "2381446_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out lady sitting on a bench in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000073",
+        "image": "2391831_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out clock top of shelf in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000074",
+        "image": "2375207_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out player leaning on railing in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000075",
+        "image": "2340514_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out man walking towards stick in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000076",
+        "image": "2395615_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out monitor top of desk in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000077",
+        "image": "2382752_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out rice under a meat in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000078",
+        "image": "2408788_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate harness across dog in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000079",
+        "image": "2403516_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is dog sleeping on bed in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000080",
+        "image": "2377947_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out picture hanging on a wall in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000081",
+        "image": "2359046_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate trunk touching ball in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000082",
+        "image": "2404694_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cups top of counter in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000083",
+        "image": "2413966_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate sign between road in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000084",
+        "image": "2369439_14.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out man standing with snowboard in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000085",
+        "image": "2384538_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out orange in middle of pine tree in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000086",
+        "image": "2329930_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out squash sitting on a table in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000087",
+        "image": "2412574_17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is donut sitting on a newspaper in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000088",
+        "image": "2382026_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out woman sitting on a bench in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000089",
+        "image": "1592245_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is line painted road in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000090",
+        "image": "2407591_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out sign on other side of post in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000091",
+        "image": "2324488_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out man catching frisbee in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000092",
+        "image": "2328320_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out man are inside wet suit in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000093",
+        "image": "2384382_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out bowl top of plate in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000094",
+        "image": "2339126_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is dog laying in cat in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000095",
+        "image": "2384562_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out laptop top of legs in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000096",
+        "image": "2398730_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate flowers attached stem in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000097",
+        "image": "2402333_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is lamp top of table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000098",
+        "image": "2321320_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out bird sitting on a chair in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000099",
+        "image": "2384382_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out bowl sitting on a plate in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000100",
+        "image": "2316538_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out sign on other side of truck in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000101",
+        "image": "2371374_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is man surfing in ocean in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000102",
+        "image": "2332994_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate zebra are inside enclosure in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000103",
+        "image": "2360365_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out man playing with frisbee in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000104",
+        "image": "2397854_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out broccoli under a soup in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000105",
+        "image": "2367125_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out shrubs in middle of grass in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000106",
+        "image": "2315780_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is ham are inside sandwich in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000107",
+        "image": "2398750_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out man sitting on a stairs in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000108",
+        "image": "2358890_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out sign top of pole in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000109",
+        "image": "2412966_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out cake top of plate in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000110",
+        "image": "2363013_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out cat top of bed in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000111",
+        "image": "2401434_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out garbage can top of grass in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000112",
+        "image": "50_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out papers top of desk in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000113",
+        "image": "2355666_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out kite flying in air in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000114",
+        "image": "2393275_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out balcony attached building in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000115",
+        "image": "2378080_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is elephant walking towards zoo in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000116",
+        "image": "2342831_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate ad on back of bus in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000117",
+        "image": "2409080_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate girl sitting on a bed in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000118",
+        "image": "2382150_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out woman walking towards man in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000119",
+        "image": "2342991_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out skier sitting on a snow in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000120",
+        "image": "2376984_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out bear sitting on a stone wall in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000121",
+        "image": "2357426_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out scissors facing left in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000122",
+        "image": "3375_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out traffic lights hanging on a pole in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000123",
+        "image": "2397329_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out door under a bench in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000124",
+        "image": "2413224_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate support securing bench in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000125",
+        "image": "2348319_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate towel on other side of boat in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000126",
+        "image": "2390604_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is glass standing with juice in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000127",
+        "image": "2333878_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate spectator sitting on a curb in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000128",
+        "image": "2371763_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out cats sticking out of window in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000129",
+        "image": "2320398_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out man served on ball in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000130",
+        "image": "2396305_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out vase sitting on a coffee table in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000131",
+        "image": "87_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out man standing near water in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000132",
+        "image": "2346429_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate carrot top of plate in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000133",
+        "image": "2379026_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cat laying in grass in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000134",
+        "image": "2369351_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cow walking towards hill in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000135",
+        "image": "2368192_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate skiers skiing down slope in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000136",
+        "image": "2405137_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out cat sitting on a floor in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000137",
+        "image": "2320551_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out bicycle against van in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000138",
+        "image": "2332428_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is candle top of tray in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000139",
+        "image": "2374429_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is laptop top of table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000140",
+        "image": "2319804_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is advertisement on other side of bus in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000141",
+        "image": "2389681_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is cow against fence in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000142",
+        "image": "2316512_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out dirt top of baseball field in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000143",
+        "image": "2349773_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate trees beside building in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000144",
+        "image": "2336198_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is flowers are inside pots in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000145",
+        "image": "2413860_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out man flying in kite in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000146",
+        "image": "2395859_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate house between trees in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000147",
+        "image": "2333106_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out mouse beside monitor in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000148",
+        "image": "712993_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate man sitting on a chair in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000149",
+        "image": "2361365_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is kite flying in sky in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000150",
+        "image": "2392212_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is dog catching frisbee in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000151",
+        "image": "2319998_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate container top of countertop in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000152",
+        "image": "2392503_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is cow are inside bushes in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000153",
+        "image": "2389746_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate dog laying in grass in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000154",
+        "image": "505_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate phone hanging on a wall in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000155",
+        "image": "2345924_21.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out writing on other side of briefcase in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000156",
+        "image": "2135_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate stone top of table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000157",
+        "image": "2396917_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out flag top of building in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000158",
+        "image": "2382662_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out man working on laptop in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000159",
+        "image": "2408154_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out boy top of sheep in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000160",
+        "image": "2356411_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate man playing with frisbee in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000161",
+        "image": "2377077_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out sign mounted on post in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000162",
+        "image": "2380232_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out art beside window in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000163",
+        "image": "2319172_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out art hanging on a wall in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000164",
+        "image": "2388368_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate bear leaning on tree in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000165",
+        "image": "2390202_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out toilet paper placed on holder in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000166",
+        "image": "2396035_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out cars stopped at light in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000167",
+        "image": "2339856_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out bottle sitting on a counter in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000168",
+        "image": "2356142_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out bread top of plate in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000169",
+        "image": "2317678_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cat under a laptop in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000170",
+        "image": "2370769_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate bus on other side of road in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000171",
+        "image": "2328914_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cup top of table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000172",
+        "image": "2413224_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out benches formed in row in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000173",
+        "image": "2346493_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is arch under a bridge in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000174",
+        "image": "2361456_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out can on other side of sidewalk in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000175",
+        "image": "2385589_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate sign containing lettering in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000176",
+        "image": "2326163_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate player swinging bat in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000177",
+        "image": "2342975_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate board top of car in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000178",
+        "image": "2378186_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is man sitting on a surfboard in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000179",
+        "image": "2350726_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out urinal on other side of wall in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000180",
+        "image": "2376529_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is dog catching frisbee in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000181",
+        "image": "2405954_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is sausage under a eggs in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000182",
+        "image": "2376660_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out monkey sitting on a bed in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000183",
+        "image": "2392692_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate tree in middle of forest in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000184",
+        "image": "2317613_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out broccoli top of pizza in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000185",
+        "image": "2384885_12.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out dog are inside car in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000186",
+        "image": "2318477_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is cat sitting on a picnic table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000187",
+        "image": "2385490_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate dog laying in blanket in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000188",
+        "image": "2365701_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out sign top of sign in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000189",
+        "image": "2345631_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cat are inside microwave in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000190",
+        "image": "2338020_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is girl talking on person in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000191",
+        "image": "2325316_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out elephants walking towards field in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000192",
+        "image": "2354203_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate log laying in ground in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000193",
+        "image": "2403635_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is bread are inside jar in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000194",
+        "image": "2332707_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out man flying in kite in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000195",
+        "image": "2413098_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out mirror mounted on bus in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000196",
+        "image": "2364428_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate arrow pointing center in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000197",
+        "image": "2412066_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate man playing with guitar in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000198",
+        "image": "493_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is dresser against wall in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000199",
+        "image": "2353244_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate bag top of bed in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000200",
+        "image": "2356801_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out tail part of zebra in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000201",
+        "image": "2397896_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out trash can under a shelf in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000202",
+        "image": "2370373_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate log laying in ground in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000203",
+        "image": "2376545_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is sign at bottom of stop sign in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000204",
+        "image": "2408065_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate man sitting on a couch in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000205",
+        "image": "2345007_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate soup are inside bowl in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000206",
+        "image": "2391123_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out box top of cart in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000207",
+        "image": "2337060_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out stairs on other side of train car in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000208",
+        "image": "2417513_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate mushroom laying in bowl in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000209",
+        "image": "2382377_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out can top of book in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000210",
+        "image": "631_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is sign top of pole in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000211",
+        "image": "2346391_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate snowboarder top of snow in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000212",
+        "image": "2368390_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out dog sitting on a sidewalk in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000213",
+        "image": "2375415_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate chicken top of plate in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000214",
+        "image": "4280_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out cabinet attached wall in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000215",
+        "image": "2364978_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is pie top of plate in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000216",
+        "image": "2375692_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is surfer top of surfboard in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000217",
+        "image": "2342809_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out cat under a car in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000218",
+        "image": "2325242_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate bird on back of chair in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000219",
+        "image": "2368979_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate bowl top of table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000220",
+        "image": "2335258_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate pipes under a sink in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000221",
+        "image": "2381727_17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out light hanging on a ceiling in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000222",
+        "image": "2329034_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out tennis player served on ball in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000223",
+        "image": "2350141_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out banner sitting on a wall in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000224",
+        "image": "2398145_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is trim line car in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000225",
+        "image": "2380934_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate zebra under a tree in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000226",
+        "image": "2406003_12.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out picture hanging on a wall in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000227",
+        "image": "2368913_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out tablet top of desk in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000228",
+        "image": "2319634_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate man sitting on a bench in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000229",
+        "image": "2391831_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out clock top of shelf in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000230",
+        "image": "2355834_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate bird flying in sky in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000231",
+        "image": "2394328_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate man playing with tennis in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000232",
+        "image": "2389166_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out windows on other side of train in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000233",
+        "image": "150303_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out frame top of end table in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000234",
+        "image": "7_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out cereal top of desk in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000235",
+        "image": "2389117_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out bear on other side of road in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000236",
+        "image": "2387449_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is stick top of rocks in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000237",
+        "image": "2335060_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out bike on other side of building in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000238",
+        "image": "2417434_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out cat sitting on a sofa in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000239",
+        "image": "2390399_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is teddy bear on other side of fire truck in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000240",
+        "image": "2318275_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate bench overlooking pond in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000241",
+        "image": "2358890_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out sign top of pole in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000242",
+        "image": "2413085_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is truck in middle of motorcycle in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000243",
+        "image": "498388_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate men walking towards street in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000244",
+        "image": "2357199_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out chimney top of building in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000245",
+        "image": "2384885_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out dog are inside car in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000246",
+        "image": "2376225_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out train driving down train tracks in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000247",
+        "image": "2354069_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out train stopped at station in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000248",
+        "image": "2349284_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is books under a computer monitor in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000249",
+        "image": "2339024_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out dog sitting on a snow in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000250",
+        "image": "2382531_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out man playing with frisbee in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000251",
+        "image": "2367289_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out pillows top of sofa in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000252",
+        "image": "2316966_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out surfboard hanging on a cord in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000253",
+        "image": "2340445_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is bus down street in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000254",
+        "image": "2355509_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate cat sitting on a motorcycle in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000255",
+        "image": "2345022_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out boy sitting on a grass in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000256",
+        "image": "2388606_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out cat are inside vehicle in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000257",
+        "image": "2392561_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is tomatoes sitting on a sandwiches in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000258",
+        "image": "2336815_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate water are inside toilet in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000259",
+        "image": "2381446_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate lady top of bench in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000260",
+        "image": "2354204_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is trunk laying in ground in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000261",
+        "image": "2391253_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out umbrella top of boat in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000262",
+        "image": "2394793_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you locate sign attached pole in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000263",
+        "image": "1160148_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out hand on end of arm in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000264",
+        "image": "2403790_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is lamp top of nightstand in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000265",
+        "image": "2383093_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out feeder hanging on a wire in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000266",
+        "image": "2335600_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is legs under a door in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000267",
+        "image": "2394775_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease segment out zebra laying in grass in this image."
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000268",
+        "image": "4285_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out plant hanging on a ceiling in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000269",
+        "image": "2363089_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out man top of court in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000270",
+        "image": "2320895_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out zebra are inside fence in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    },
+    {
+        "id": "000000000271",
+        "image": "335_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you segment out speaker top of desk in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "It is here."
+            }
+        ]
+    }
+]
